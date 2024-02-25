@@ -1,2 +1,3 @@
 # One-Dimension-CNN-for-thyroid-cancer-diangosis
-One-Dimension CNN model for assessment malignancy of thryoid cancer through sonographic features extracted from ultrsound and clinical data
+One-dimension CNN model for assessment malignancy of thyroid cancer through sonographic features extracted from ultrasound and clinical data
+The code will be uploaded soon.
